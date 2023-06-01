@@ -60,6 +60,11 @@
         "url": "https://flick.elmotalent.com.au/dashboard"
     },
     {
+        "alt": "Instant Scripts",
+        "img": "",
+        "url": "https://www.instantscripts.com.au/"
+    },
+    {
         "alt": "WiFi",
         "img": "./assets/images/wifi.png",
         "url": "http://192.168.1.1/"
