@@ -17,18 +17,16 @@
         <meta name="msapplication-TileImage" content="/assets/images/icon-144.png">
         <meta name="msapplication-TileColor" content="#FFFFFF">
         <!-- styles -->
+        <link rel="stylesheet" href="./assets/css/reset.css">
         <link rel="stylesheet" href="./assets/css/base.css">
     </head>
-    </head>
-    <body class="fullscreen">
-        <div class="container">
-            <div class="gallery" id="cards">
-                <script type="text/template" id="cards-template">
-                    <a class="card" target="_top" href="{{url}}">
-                        <img src="{{img}}" alt="{{alt}}">
-                    </a>
-                </script>
-            </div>
+    <body>
+        <div class="gallery" id="cards">
+            <script type="text/template" id="cards-template">
+                <a class="card" target="_top" href="{{url}}">
+                    <img src="{{img}}" alt="{{alt}}">
+                </a>
+            </script>
         </div>
 
         <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>

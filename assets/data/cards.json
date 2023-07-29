@@ -35,11 +35,6 @@
         "url": "https://app.destinyitemmanager.com/"
     },
     {
-        "alt": "Wowhead",
-        "img": "./assets/images/wowhead.png",
-        "url": "https://www.wowhead.com"
-    },
-    {
         "alt": "Outlook",
         "img": "./assets/images/outlook.png",
         "url": "https://outlook.live.com/owa/"
@@ -50,23 +45,8 @@
         "url": "https://sheets.google.com/"
     },
     {
-        "alt": "Flick Employee Services Portal",
+        "alt": "Flick ESP",
         "img": "./assets/images/flick.png",
-        "url": "https://esp.cloud.micropay.com.au/esp50470/"
-    },
-    {
-        "alt": "Flick eHub",
-        "img": "./assets/images/flick_ehub.png",
-        "url": "https://flick.elmotalent.com.au/dashboard"
-    },
-    {
-        "alt": "Instant Scripts",
-        "img": "",
-        "url": "https://www.instantscripts.com.au/"
-    },
-    {
-        "alt": "WiFi",
-        "img": "./assets/images/wifi.png",
-        "url": "http://192.168.1.1/"
+        "url": "https://ess.cloud.micropay.com.au/#/"
     }
 ]
